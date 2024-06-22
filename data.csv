@@ -1,0 +1,6 @@
+name.firstName, name.lastName, age, address.line1, address.line2, address.city, address.state, gender
+Rohit, Prasad,35, A-563 Rakshak Society, New Pune Road, Pune, Maharashtra, male
+John, Doe,28, 123 Main St, Apt 4, Springfield, IL, male
+Jane, Smith,45, 456 Elm St, Suite 10, Metropolis, NY, female
+Alice, Johnson,52, 789 Oak St, , Gotham, NJ, female
+Bob, Brown,15, 101 Maple St, , Smallville, KS, male
